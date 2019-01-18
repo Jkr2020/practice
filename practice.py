@@ -4,3 +4,5 @@ print ("Software Development")
 print ("2020")
 print ("2002")
 print (x)
+y = 20
+print (y)
